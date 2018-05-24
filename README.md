@@ -2,12 +2,12 @@
 I'm try to update this list link with keyword.
  
 
-## keyword : [-- Oprator --] :heart: :muscle: :angry:
+## keyword : [-- Oprator --] 
 `subject :`  
 -- link : 
 
 
-## keyword : [-- Pointer --]
+## keyword : [-- Pointer --] :heart: :muscle: :angry:
 `subject :`  
 -- link : 
 

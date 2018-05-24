@@ -4,12 +4,12 @@ I'm try to update this list link with keyword.
 
 ## keyword : [-- Oprator --] 
 `subject :`  
--- link : 
+>-- link : 
 
 
 ## keyword : [-- Pointer --] :heart: :muscle: :angry:
 `subject :`  
--- link : 
+>-- link : 
 
 
 

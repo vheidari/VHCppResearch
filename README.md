@@ -49,6 +49,6 @@ I'm try to update this list link with keyword.
 <hr>
 
 <Title:> really good answer and question in C and C++ on quora - github repo  
---is: reffrence  
+--is: reference  
 >--link : https://bit.ly/2s7qBAh
 

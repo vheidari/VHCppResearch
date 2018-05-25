@@ -1,5 +1,6 @@
-# C++ good link with keyword :
+# C and C++ good link with keyword :
 I'm try to update this list link with keyword.
+
  
 
 ## keyword : [-- Oprator --] 
@@ -15,27 +16,39 @@ I'm try to update this list link with keyword.
 
 
 #
-# C++ tutorial and refrence link :
+# C and C++ tutorial and refrence link :
 
-<Title:> C++ reference  :star: :star: :star:  
+<Title:> C++ reference  
 --is: reference   
 >--link : http://cppreference.com
 
 <hr>
 
-<Title:> C++ beginner tutorial   :star:   
+<Title:> beginner C++ tutorial  
 --is: tutorial  
 >--link : http://cppreference.com
 
 <hr>
 
-<Title:> C++ besic advance tutorial   :star: :star:  
+<Title:> beginner to advanced C++ tutorial   
 --is: tutorial  
 >--link : http://www.learncpp.com
 
 <hr>
 
-<Title:> C++ basics advance tutorial :star: :star:  
+<Title:> beginner to advanced C++ tutorial  
 --is: tutorial  
 >--link : https://www.learn-cpp.org
+
+<hr>
+
+<Title:> beginner to advanced C tutorial  
+--is: tutorial  
+>--link : https://www.learn-c.org
+
+<hr>
+
+<Title:> really good answer and question in C and C++ on quora - github repo  
+--is: reffrence  
+>--link : https://bit.ly/2s7qBAh
 

@@ -3,6 +3,12 @@ I'm try to update this list link with keyword.
 
  
 
+ ## keyword : [-- Makefile --] 
+`subject :` how to write a simple makefile  -- `good link`   
+>-- link :  http://mrbook.org/blog/tutorials/make/
+
+
+
 ## keyword : [-- Oprator --] 
 `subject :`  
 >-- link : 
@@ -50,5 +56,5 @@ I'm try to update this list link with keyword.
 
 <Title:> really good answer and question in C and C++ on quora - github repo  
 --is: reference  
->--link : https://bit.ly/2s7qBAh
+>--link : https://bit.ly/2s7qBAh  
 

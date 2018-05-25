@@ -26,7 +26,7 @@ I'm try to update this list link with keyword.
 
 <Title:> beginner C++ tutorial  
 --is: tutorial  
->--link : http://cppreference.com
+>--link : https://www.tutorialspoint.com/cplusplus
 
 <hr>
 

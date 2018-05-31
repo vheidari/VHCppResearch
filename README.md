@@ -29,13 +29,24 @@ I'm try to update this list link with keyword.
 
 <Title:> C++ reference  
 --is: reference   
->--link : http://cppreference.com
+>--link : http://cppreference.com  
+
+
+
+<hr>
+
+<Title:> The home of Standard C++ on the web -- [isocpp.org]  
+--is: reference  
+>--link : https://isocpp.org  
+
+
 
 <hr>
 
 <Title:> beginner C++ tutorial  
 --is: tutorial  
 >--link : https://www.tutorialspoint.com/cplusplus
+
 
 <hr>
 
@@ -54,13 +65,6 @@ I'm try to update this list link with keyword.
 <Title:> good C++ articles for beginner to advanced and comparative between C++ and another languages  
 --is: tutorial  
 >--link : https://www.geeksforgeeks.org/c-plus-plus  
-
-
-<hr>
-
-<Title:> beginner to advanced C tutorial  
---is: tutorial  
->--link : https://www.learn-c.org  
 
 
 <hr>
@@ -84,3 +88,15 @@ I'm try to update this list link with keyword.
 >--link : https://bit.ly/2Fg3RCv  
 
 
+
+<hr>
+
+<Title:> beginner to advanced C tutorial  
+--is: tutorial  
+>--link : https://www.learn-c.org  
+
+<hr>
+
+<Title:> C Programming for Beginners  [overiq.com]  
+--is: tutorial  
+>--link : https://bit.ly/2IYql0R  

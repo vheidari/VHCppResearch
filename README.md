@@ -13,8 +13,8 @@ I'm try to update this list link with keyword.
 
 
 ## keyword : [-- Oprator --] 
-`subject :` Advanced C Programming: Pointers    
->-- link :  https://www.udemy.com/advanced-c-programming-pointers/
+`subject :` nosubject      
+>-- link :  nosubject    
 
 
 ## keyword : [-- Pointer --] :heart: :muscle: :angry:

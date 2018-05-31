@@ -5,18 +5,21 @@ I'm try to update this list link with keyword.
 
  ## keyword : [-- Makefile --] 
 `subject :` how to write a simple makefile  -- `good link`   
->-- link :  http://mrbook.org/blog/tutorials/make/
+>-- link :  http://mrbook.org/blog/tutorials/make/  
+
+`subject :` g++ and make  -- `pdf link` -- [-stanford university-]   
+>-- link :  https://stanford.io/2kCeA1q    
 
 
 
 ## keyword : [-- Oprator --] 
-`subject :`  
->-- link : 
+`subject :` Advanced C Programming: Pointers    
+>-- link :  https://www.udemy.com/advanced-c-programming-pointers/
 
 
 ## keyword : [-- Pointer --] :heart: :muscle: :angry:
-`subject :`  
->-- link : 
+`subject :` Advanced C Programming: Pointers  [-video-]  
+>-- link :  https://www.udemy.com/advanced-c-programming-pointers/
 
 
 
@@ -69,8 +72,15 @@ I'm try to update this list link with keyword.
 
 <hr>
 
-<Title:> Learn to Program for Windows in C++  
+<Title:> Learn to Program for Windows in C++ -- [microsoft]  
 --is: reference  
->--link : https://bit.ly/2s7qBAh  
+>--link : https://bit.ly/2J0W6X8  
+
+
+<hr>
+
+<Title:> C++ 2017 feauter -- [tech.io]  
+--is: reference  
+>--link : https://bit.ly/2Fg3RCv  
 
 

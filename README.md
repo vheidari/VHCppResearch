@@ -19,7 +19,12 @@ I'm try to update this list link with keyword.
 
 ## keyword : [-- Pointer --] :heart: :muscle: :angry:
 `subject :` Advanced C Programming: Pointers  [-video-]  
->-- link :  https://www.udemy.com/advanced-c-programming-pointers/
+>-- link :  https://www.udemy.com/advanced-c-programming-pointers/  
+
+
+## keyword : [-- Shared library --] 
+`subject :` Really good Article about shared library in C++    
+>-- link :  http://gernotklingler.com/blog/creating-using-shared-libraries-different-compilers-different-operating-systems/
 
 
 

@@ -10,6 +10,9 @@ I'm try to update this list link with keyword.
 `subject :` g++ and make  -- `pdf link` -- [-stanford university-]   
 >-- link :  https://stanford.io/2kCeA1q    
 
+`subject :` C++ Makefile template  -- `good link`  
+>-- link :  https://bit.ly/2LjRHeu    
+
 
 
 ## keyword : [-- Oprator --] 

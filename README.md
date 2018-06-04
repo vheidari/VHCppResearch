@@ -40,12 +40,18 @@ I'm try to update this list link with keyword.
 >--link : http://cppreference.com  
 
 
-
 <hr>
 
 <Title:> The home of Standard C++ on the web -- [isocpp.org]  
 --is: reference  
 >--link : https://isocpp.org  
+
+
+<hr>
+
+<Title:> C++ Core Guidelines -- [isocpp]  [really good guideline with Bjarne Stroustrup and Herb Sutter to use modern C++]  
+--is: tutorial guideline    
+>--link : https://bit.ly/2sQb4pt    
 
 
 

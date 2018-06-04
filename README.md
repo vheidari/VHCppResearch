@@ -80,6 +80,12 @@ I'm try to update this list link with keyword.
 --is: tutorial  
 >--link : https://www.geeksforgeeks.org/c-plus-plus  
 
+<hr>
+
+<Title:> good C++ articles and news  [herb sutter]
+--is: article and news  
+>--link : https://herbsutter.com  
+
 
 <hr>
 

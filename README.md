@@ -120,3 +120,11 @@ I'm try to update this list link with keyword.
 <Title:> C Programming for Beginners  [overiq.com]  
 --is: tutorial  
 >--link : https://bit.ly/2IYql0R  
+
+<hr>
+
+<Title:> C Programming Language for Beginner  [ntu.edu.sg]  
+--is: tutorial  
+>--link : https://bit.ly/2CRVa4E 
+
+

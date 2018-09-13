@@ -125,6 +125,6 @@ I'm try to update this list link with keyword.
 
 <Title:> C Programming Language for Beginner  [ntu.edu.sg]  
 --is: tutorial  
->--link : https://bit.ly/2CRVa4E 
+>--link : https://bit.ly/2x9V1Ee 
 
 
